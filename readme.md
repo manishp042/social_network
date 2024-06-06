@@ -23,7 +23,7 @@ This is a social networking API built using Django Rest Framework. The API suppo
 ### Clone the Repository
 
 ```bash
-git clone git@github.com:manishp042/social_network.git
+git clone https://github.com/manishp042/social_network.git
 cd social_network
 ```
 
