@@ -32,17 +32,17 @@ cd social_network
 - source `venv/bin/activate`  # On Windows use `venv\Scripts\activate`
 
 ### Install Dependencies   
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### Apply Migrations
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py makemigrations
+- python manage.py migrate
 
 ### Create a Superuser
-python manage.py createsuperuser
+- python manage.py createsuperuser
 
 ### Run the Development Server
-python manage.py runserver
+- python manage.py runserver
 
 The API will be available at `http://localhost:8000`
 
